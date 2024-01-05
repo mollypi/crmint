@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mollypi/crmint is built on the following main stack:
+
 - [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
 - [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery) – Big Data as a Service
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
@@ -38,11 +39,13 @@ mollypi/crmint is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mollypi/crmint is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
 - <img width='25' height='25' src='https://img.stackshare.io/service/695/BigQuery.png' alt='Google BigQuery'/> [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery) – Big Data as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
@@ -79,14 +82,15 @@ mollypi/crmint is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/crmint](https://github.com/mollypi/crmint)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|111<br/>Tools used|11/15/23 <br/>Report generated|
+|112<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -446,52 +450,53 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (70)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (71)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (40)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (41)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[alembic](https://pypi.org/alembic)|v1.10.3|04/13/23|Pierre Dulac |MIT|N/A|
-|[aniso8601](https://pypi.org/aniso8601)|v9.0.1|04/13/23|Pierre Dulac |BSD-3-Clause|N/A|
-|[attrs](https://pypi.org/attrs)|v22.2.0|01/10/23|Pierre Dulac |MIT|N/A|
-|[cachetools](https://pypi.org/cachetools)|v5.3.0|04/13/23|Pierre Dulac |MIT|N/A|
-|[certifi](https://pypi.org/certifi)|v2022.12.7|01/10/23|Pierre Dulac |MPL-2.0|[CVE-2023-37920](https://github.com/advisories/GHSA-xqr8-7jwr-rhp7) (High)|
-|[click](https://pypi.org/click)|v8.1.3|12/03/22|Pierre Dulac |BSD-3-Clause|N/A|
-|[croniter](https://pypi.org/croniter)|v1.4.1|06/23/23|Robert McMahan |MIT|N/A|
-|[google-api-core](https://pypi.org/google-api-core)|v2.11.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
-|[google-api-python-client](https://pypi.org/google-api-python-client)|v2.86.0|08/21/23|Robert McMahan |Apache-2.0|N/A|
-|[google-auth](https://pypi.org/google-auth)|v2.17.3|06/23/23|Robert McMahan |Apache-2.0|N/A|
-|[google-auth-oauthlib](https://pypi.org/google-auth-oauthlib)|v1.0.0|08/21/23|Robert McMahan |Apache-2.0|N/A|
-|[google-cloud-bigquery](https://pypi.org/google-cloud-bigquery)|v3.9.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
-|[google-cloud-core](https://pypi.org/google-cloud-core)|v2.3.2|06/23/23|Robert McMahan |Apache-2.0|N/A|
-|[google-cloud-logging](https://pypi.org/google-cloud-logging)|v3.5.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
-|[google-cloud-pubsub](https://pypi.org/google-cloud-pubsub)|v2.16.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
-|[google-cloud-storage](https://pypi.org/google-cloud-storage)|v2.9.0|08/21/23|Robert McMahan |Apache-2.0|N/A|
-|[googleapis-common-protos](https://pypi.org/googleapis-common-protos)|v1.59.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
-|[greenlet](https://pypi.org/greenlet)|v2.0.1|12/03/22|Pierre Dulac |MIT|N/A|
-|[grpc-google-iam-v1](https://pypi.org/grpc-google-iam-v1)|v0.12.6|06/23/23|Robert McMahan |Apache-2.0|N/A|
-|[grpcio](https://pypi.org/grpcio)|v1.53.0|04/13/23|Robert McMahan |Apache-2.0|N/A|
-|[httplib2](https://pypi.org/httplib2)|v0.22.0|08/21/23|Robert McMahan |MIT|N/A|
-|[idna](https://pypi.org/idna)|v3.4|12/03/22|Pierre Dulac |BSD-3-Clause|N/A|
-|[itsdangerous](https://pypi.org/itsdangerous)|v2.1.2|12/03/22|Pierre Dulac |BSD-3-Clause|N/A|
-|[mock](https://pypi.org/mock)|v5.0.1|01/10/23|Pierre Dulac |BSD-2-Clause|N/A|
-|[msgpack](https://pypi.org/msgpack)|v1.0.5|04/13/23|Pierre Dulac |Apache-2.0|N/A|
-|[mysql-connector-python](https://pypi.org/mysql-connector-python)|v8.0.28|06/23/23|Robert McMahan |GPL-2.0-with-font-exception|N/A|
-|[oauthlib](https://pypi.org/oauthlib)|v3.2.2|04/13/23|Pierre Dulac |BSD-3-Clause|N/A|
-|[packaging](https://pypi.org/packaging)|v23.1|04/13/23|Pierre Dulac |BSD-3-Clause,Apache-2.0|N/A|
-|[pyasn1](https://pypi.org/pyasn1)|v0.4.8|12/03/22|Pierre Dulac |BSD-2-Clause|N/A|
-|[pyasn1-modules](https://pypi.org/pyasn1-modules)|v0.2.8|12/03/22|Pierre Dulac |BSD-2-Clause|N/A|
-|[pyparsing](https://pypi.org/pyparsing)|v3.0.9|12/03/22|Pierre Dulac |MIT|N/A|
-|[python-dateutil](https://pypi.org/python-dateutil)|v2.8.2|06/23/23|Robert McMahan |NRL|N/A|
-|[pytz](https://pypi.org/pytz)|v2023.3|04/13/23|Pierre Dulac |MIT|N/A|
-|[requests](https://pypi.org/requests)|v2.28.2|06/23/23|Robert McMahan |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
-|[requests-oauthlib](https://pypi.org/requests-oauthlib)|v1.3.1|08/21/23|Robert McMahan |ISC|N/A|
-|[rsa](https://pypi.org/rsa)|v4.9|02/20/22|Alexander Prikhodko |Apache-2.0|N/A|
-|[six](https://pypi.org/six)|v1.16.0|02/20/22|Alexander Prikhodko |MIT|N/A|
-|[typing-extensions](https://pypi.org/typing-extensions)|v4.5.0|04/13/23|Pierre Dulac |Python-2.0|N/A|
-|[uritemplate](https://pypi.org/uritemplate)|v4.1.1|08/21/23|Robert McMahan |Apache-2.0|N/A|
-|[urllib3](https://pypi.org/urllib3)|v1.26.15|04/13/23|Pierre Dulac |MIT|[CVE-2023-45803](https://github.com/advisories/GHSA-g4mx-q9vg-27p4) (Moderate)<br/>[CVE-2023-43804](https://github.com/advisories/GHSA-v845-jxx5-vc9f) (Moderate)|
+|[alembic](https://pypi.org/project/alembic)|v1.10.3|04/13/23|Pierre Dulac |MIT|N/A|
+|[aniso8601](https://pypi.org/project/aniso8601)|v9.0.1|04/13/23|Pierre Dulac |BSD-3-Clause|N/A|
+|[attrs](https://pypi.org/project/attrs)|v22.2.0|01/10/23|Pierre Dulac |MIT|N/A|
+|[cachetools](https://pypi.org/project/cachetools)|v5.3.0|04/13/23|Pierre Dulac |MIT|N/A|
+|[certifi](https://pypi.org/project/certifi)|v2022.12.7|01/10/23|Pierre Dulac |MPL-2.0|[CVE-2023-37920](https://github.com/advisories/GHSA-xqr8-7jwr-rhp7) (High)|
+|[click](https://pypi.org/project/click)|v8.1.3|12/03/22|Pierre Dulac |BSD-3-Clause|N/A|
+|[croniter](https://pypi.org/project/croniter)|v1.4.1|06/23/23|Robert McMahan |MIT|N/A|
+|[google-api-core](https://pypi.org/project/google-api-core)|v2.11.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
+|[google-api-python-client](https://pypi.org/project/google-api-python-client)|v2.86.0|08/21/23|Robert McMahan |Apache-2.0|N/A|
+|[google-auth](https://pypi.org/project/google-auth)|v2.17.3|06/23/23|Robert McMahan |Apache-2.0|N/A|
+|[google-auth-oauthlib](https://pypi.org/project/google-auth-oauthlib)|v1.0.0|08/21/23|Robert McMahan |Apache-2.0|N/A|
+|[google-cloud-bigquery](https://pypi.org/project/google-cloud-bigquery)|v3.9.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
+|[google-cloud-core](https://pypi.org/project/google-cloud-core)|v2.3.2|06/23/23|Robert McMahan |Apache-2.0|N/A|
+|[google-cloud-logging](https://pypi.org/project/google-cloud-logging)|v3.5.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
+|[google-cloud-pubsub](https://pypi.org/project/google-cloud-pubsub)|v2.16.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
+|[google-cloud-storage](https://pypi.org/project/google-cloud-storage)|v2.9.0|08/21/23|Robert McMahan |Apache-2.0|N/A|
+|[googleapis-common-protos](https://pypi.org/project/googleapis-common-protos)|v1.59.0|06/23/23|Robert McMahan |Apache-2.0|N/A|
+|[greenlet](https://pypi.org/project/greenlet)|v2.0.1|12/03/22|Pierre Dulac |MIT|N/A|
+|[grpc-google-iam-v1](https://pypi.org/project/grpc-google-iam-v1)|v0.12.6|06/23/23|Robert McMahan |Apache-2.0|N/A|
+|[grpcio](https://pypi.org/project/grpcio)|v1.53.0|04/13/23|Robert McMahan |Apache-2.0|N/A|
+|[httplib2](https://pypi.org/project/httplib2)|v0.22.0|08/21/23|Robert McMahan |MIT|N/A|
+|[idna](https://pypi.org/project/idna)|v3.4|12/03/22|Pierre Dulac |BSD-3-Clause|N/A|
+|[itsdangerous](https://pypi.org/project/itsdangerous)|v2.1.2|12/03/22|Pierre Dulac |BSD-3-Clause|N/A|
+|[mock](https://pypi.org/project/mock)|v5.0.1|01/10/23|Pierre Dulac |BSD-2-Clause|N/A|
+|[msgpack](https://pypi.org/project/msgpack)|v1.0.5|04/13/23|Pierre Dulac |Apache-2.0|N/A|
+|[mysql-connector-python](https://pypi.org/project/mysql-connector-python)|v8.0.28|06/23/23|Robert McMahan |GPL-2.0-with-font-exception|N/A|
+|[oauthlib](https://pypi.org/project/oauthlib)|v3.2.2|04/13/23|Pierre Dulac |BSD-3-Clause|N/A|
+|[packaging](https://pypi.org/project/packaging)|v23.1|04/13/23|Pierre Dulac |BSD-3-Clause,Apache-2.0|N/A|
+|[pyasn1](https://pypi.org/project/pyasn1)|v0.4.8|12/03/22|Pierre Dulac |BSD-2-Clause|N/A|
+|[pyasn1-modules](https://pypi.org/project/pyasn1-modules)|v0.2.8|12/03/22|Pierre Dulac |BSD-2-Clause|N/A|
+|[pyparsing](https://pypi.org/project/pyparsing)|v3.0.9|12/03/22|Pierre Dulac |MIT|N/A|
+|[python-dateutil](https://pypi.org/project/python-dateutil)|v2.8.2|06/23/23|Robert McMahan |NRL|N/A|
+|[pytz](https://pypi.org/project/pytz)|v2023.3|04/13/23|Pierre Dulac |MIT|N/A|
+|[requests](https://pypi.org/project/requests)|v2.28.2|06/23/23|Robert McMahan |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
+|[requests-oauthlib](https://pypi.org/project/requests-oauthlib)|v1.3.1|08/21/23|Robert McMahan |ISC|N/A|
+|[rsa](https://pypi.org/project/rsa)|v4.9|02/20/22|Alexander Prikhodko |Apache-2.0|N/A|
+|[setuptools](https://pypi.org/project/setuptools)|v67.6.1|04/13/23|Pierre Dulac |MIT|N/A|
+|[six](https://pypi.org/project/six)|v1.16.0|02/20/22|Alexander Prikhodko |MIT|N/A|
+|[typing-extensions](https://pypi.org/project/typing-extensions)|v4.5.0|04/13/23|Pierre Dulac |Python-2.0|N/A|
+|[uritemplate](https://pypi.org/project/uritemplate)|v4.1.1|08/21/23|Robert McMahan |Apache-2.0|N/A|
+|[urllib3](https://pypi.org/project/urllib3)|v1.26.15|04/13/23|Pierre Dulac |MIT|[CVE-2023-45803](https://github.com/advisories/GHSA-g4mx-q9vg-27p4) (Moderate)<br/>[CVE-2023-43804](https://github.com/advisories/GHSA-v845-jxx5-vc9f) (Moderate)|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (30)
@@ -532,4 +537,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
